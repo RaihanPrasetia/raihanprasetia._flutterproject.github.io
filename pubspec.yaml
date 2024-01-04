@@ -1,0 +1,70 @@
+name: flutter_application_1
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  awesome_icons: ^1.1.0
+
+  google_fonts: ^3.0.1
+  get: 4.6.5
+
+  flutter:
+    sdk: flutter
+  carousel_slider: ^4.0.0
+  url_launcher: ^6.0.0
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/Homebg.jfif
+    - assets/Carousel2.webp
+    - assets/Carousel3.webp
+    - assets/login.jpg
+    - assets/Kuta_2.jpg
+    - assets/Raja Ampat.webp
+    - assets/Bromo.webp
+    - assets/Candi Borobudur.webp
+    - assets/Candi Prambanan.jpg
+    - assets/Ubud.webp
+    - assets/natsepa.jpg
+    - assets/Kampoeng kartsa.webp
+    - assets/foto Sampul.jfif
+    - assets/Foto Profile.jfif
+    - assets/Raja Ampat2.jpg
+    - assets/Gunug bromo2.jpg
+    - assets/Candi Borobudur2.jpg
+    - assets/prambanan 2.jpg
+    - assets/sumampam.jpg
+    - assets/natsepa1.webp
+    - assets/natsepa 3.webp
+    - assets/rammang-rammang.jpeg
+    - assets/rammang1.jpg
+    - assets/Branda1.jpg
+    - assets/Branda2.jpg
+    - assets/Branda3.jpg
+    - assets/1.jpg
+    - assets/2.jpg
+    - assets/3.jpg
+    - assets/4.jpg
+    - assets/5.jpg
+    - assets/6.jpg
+    - assets/andrey-bond-t8fEOfpVfck-unsplash.jpg
+    - assets/Vincenzo_poster.jpg
+    - assets/mafia.jpg
+    - assets/4467714.jpg
+    - assets/AbdulDimNastiar.jpg
+    - assets/Dwiky.PNG
+    - assets/Habi.JPG
+    - assets/Herdinata Dwi Putra.jpg
+    - assets/Raihan.jpg
+    - assets/logo TTTID.png
